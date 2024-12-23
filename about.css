@@ -1,0 +1,12 @@
+#About {
+  background-color: #f5e6ca; /* Pilih warna latar belakang sesuai keinginan */
+  padding: 50px 0; /* Tambahkan padding untuk spasi atas dan bawah */
+}
+
+#About h2 {
+  color: #000; /* Warna teks heading agar terlihat jelas */
+}
+
+#About p {
+  color: #333; /* Warna teks paragraf */
+}
